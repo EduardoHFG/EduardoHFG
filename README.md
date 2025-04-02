@@ -1,6 +1,6 @@
 ## Oi Pessoal 👋
 
-- 🌱 Estou aprendendo a um tempo programaçao
+- 🌱 Estou aprendendo a um tempo programaçao - iniciante
 - 🤔 Qualquer tipo de ajuda é bem vinda
 - ⚡ Tenho 17 anos e trabalho no momento apenas para mim
 
