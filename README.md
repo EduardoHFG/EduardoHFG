@@ -1,13 +1,14 @@
-## Oi Pessoal 👋
-
-- 🌱 Estou aprendendo a um tempo programaçao - iniciante
-- 🤔 Qualquer tipo de ajuda é bem vinda
-- ⚡ Tenho 17 anos e trabalho no momento apenas para mim
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=26&pause=1000&color=36F715&center=true&width=435&lines=Hey%2C+i'm+Eduardo+Fitipaldi+%F0%9F%A4%96;Frontend+Developer+%7C+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+##
+- 🌱 Intermediate programmer with a continuous learning mindset
+- 🤔 Always open to guidance, mentorship, and tech advice
+- ⚡ 18-year-old tech enthusiast doing freelance computing projects
+- 🎓 Graduating Computer Science.
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Edu-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edu-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Edu-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
   
   ##
